@@ -14,5 +14,8 @@ A web-based application that leverages **true quantum randomness** to generate s
 - **Frontend:** [Streamlit](https://streamlit.io/)
 - **Hardware:** IBM Quantum Platform (via Qiskit Runtime)
 
-
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/ARJose-cyber/Quantum-Password-Generator.git
+   cd quantum-password-gen
 
