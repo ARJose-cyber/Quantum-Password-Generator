@@ -14,6 +14,16 @@ A web-based application that leverages **true quantum randomness** to generate s
 - **Frontend:** [Streamlit](https://streamlit.io/)
 - **Hardware:** IBM Quantum Platform (via Qiskit Runtime)
 
+- ## 🔑 Configuration & API Setup
+
+To run this app on real quantum hardware, you need an IBM Quantum account.
+
+### 1. Get your IBM Quantum API Key
+1. Go to the [IBM Quantum Platform](https://quantum.ibm.com/).
+2. Create a free account or log in.
+3. On your **Dashboard**, look for the **API Token** section.
+4. Click **Copy Token** to copy your unique API key to your clipboard.
+
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/ARJose-cyber/Quantum-Password-Generator.git
